@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Story Architect — ストーリー制作",
+  "short_name": "Story Architect",
+  "description": "シナリオのノード編集、アイデアボード、フラグ、時系列、設定資料をローカルで制作",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b101b",
+  "theme_color": "#111827",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
